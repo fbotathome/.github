@@ -26,7 +26,7 @@ The FBOT@Home was founded in 2018 by FBOT from Universidade Federal do Rio Grand
 
 ### Packages
 
-Our packges are listed below:
+Our ROS1 packges are listed below:
 
 - [butia_quiz](https://github.com/butia-bots/butia_quiz)
 - [butia_speech](https://github.com/butia-bots/butia_speech)
@@ -37,6 +37,15 @@ Our packges are listed below:
 - [butia_moveit](https://github.com/butia-bots/butia_moveit)
 - [butia_navigation_system](https://github.com/butia-bots/butia_navigation_system)
 - [butia_launchfiles](https://github.com/butia-bots/butia_launchfiles)
+
+  
+Our ROS2 packges are listed below:
+
+- [fbot_speech]
+- [fbot_behavior]
+- [fbot_vision]
+- [fbot_World]
+- [fbot_bringup]
 
 ### Awards
 
