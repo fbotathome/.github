@@ -62,6 +62,7 @@ Our ROS2 packges are listed below:
   - 2022: 3rd Place
   - 2023: 9th Place
   - 2024: 11th Place
+  - 2025: 7th Place
   
 ### How to start
 
