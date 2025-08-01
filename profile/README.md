@@ -2,11 +2,6 @@
 
 The FBOT@Home was founded in 2018 by FBOT from Universidade Federal do Rio Grande (FURG).
 
-### Research
-
-- Open-source and open-hardware mobile base for service robotics;
-- Autonomous and teleoperated robot for engineering activities in offshore platforms;
-
 ### Team Description Papers
 - [Team Description Paper 2019](https://drive.google.com/file/d/1fxt-tTaoY7zBt3c8iicAUb9ofUDoddLH/view?usp=share_link)
 - [Team Description Paper 2020](https://drive.google.com/file/d/1A1bfNjHBTUHsVDIC5u9b8q3g45SdkRY5/view?usp=share_link)
@@ -23,6 +18,7 @@ The FBOT@Home was founded in 2018 by FBOT from Universidade Federal do Rio Grand
 - [The Improvement of the Domestic Robot DoRIS 2021](https://drive.google.com/file/d/1A1bfNjHBTUHsVDIC5u9b8q3g45SdkRY5/view?usp=share_link)
 - [SHARK: Stable Hoverboard-driven Autonomous Robot Kit](https://www.even3.com.br/anais/v-brahur-vi-brasero/869310-shark--stable-hoverboard-driven-autonomous-robot-kit/)
 - [Teach and Repeat for Path Planning Using Bézier Curves](https://ieeexplore.ieee.org/document/10837801)
+- [Digital Environment Description and Reconstruction Using Panoptic Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-85859-8_20)
 
 ### Packages
 
@@ -41,11 +37,17 @@ Our ROS1 packges are listed below:
   
 Our ROS2 packges are listed below:
 
-- [fbot_speech]
-- [fbot_behavior]
-- [fbot_vision]
-- [fbot_World]
-- [fbot_bringup]
+- [fbot_behavior](https://github.com/fbotathome/fbot_behavior)
+- [fbot_navigation](https://github.com/fbotathome/fbot_navigation)
+- [fbot_hri](https://github.com/fbotathome/fbot_hri)
+- [fbot_vision](https://github.com/fbotathome/fbot_vision)
+- [fbot_world](https://github.com/fbotathome/fbot_world)
+- [fbot_bringup](https://github.com/fbotathome/fbot_bringup)
+- [fbot_manipulator](https://github.com/fbotathome/fbot_manipulator)
+- [fbot_description](https://github.com/fbotathome/fbot_description)
+- [fbot_simulation](https://github.com/fbotathome/fbot_simulation)
+- [fbot_agent](https://github.com/fbotathome/fbot_agent)
+- [fbot_learning](https://github.com/fbotathome/fbot_learning)
 
 ### Awards
 
@@ -59,11 +61,7 @@ Our ROS2 packges are listed below:
   - 2024: 1st Place
 
 - RoboCup
-  - 2022: 3rd Place
-  - 2023: 9th Place
-  - 2024: 11th Place
-  - 2025: 7th Place
-  
-### How to start
-
-- [Check our wiki here](https://github.com/butia-bots/butia_learning/wiki)
+  - Bangkok 2022: 3rd Place
+  - Bordeaux 2023: 9th Place
+  - Eindhoven 2024: 11th Place
+  - Salvador 2025: 7th Place
