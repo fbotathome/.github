@@ -1,4 +1,5 @@
-# FBOT@Home Robotics Team
+# <img width="8897" height="719" alt="fbotathome" src="https://github.com/user-attachments/assets/6785597e-cb45-4f93-aa1f-4ae32b180097" />
+
 
 The FBOT@Home was founded in 2018 by FBOT from Universidade Federal do Rio Grande (FURG).
 
@@ -52,16 +53,16 @@ Our ROS2 packges are listed below:
 ### Awards
 
 - Brazilian Robotics Competition
-  - 2018: 3rd Place
-  - 2019: 3rd Place
-  - 2020: 3rd Place
-  - 2021: 2nd Place
-  - 2022: 1st Place
-  - 2023: 1st Place
-  - 2024: 1st Place
+  - 2018: 3rd Place 🥉
+  - 2019: 3rd Place 🥉
+  - 2020: 3rd Place 🥉
+  - 2021: 2nd Place 🥈
+  - 2022: 1st Place 🥇
+  - 2023: 1st Place 🥇
+  - 2024: 1st Place 🥇
 
 - RoboCup
-  - Bangkok 2022: 3rd Place
+  - Bangkok 2022: 3rd Place 
   - Bordeaux 2023: 9th Place
   - Eindhoven 2024: 11th Place
   - Salvador 2025: 7th Place
