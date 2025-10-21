@@ -60,6 +60,7 @@ Our ROS2 packges are listed below:
   - 2022: 1st Place 🥇
   - 2023: 1st Place 🥇
   - 2024: 1st Place 🥇
+  - 2025: 1st Place 🥇
 
 - RoboCup
   - Bangkok 2022: 3rd Place 
